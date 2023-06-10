@@ -1,0 +1,82 @@
+.active {
+	color: #4E6FAE;
+}
+/*რიცხვი*/
+.a {
+	width: 50px;
+	height: 50px;
+	background: #5012D5;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 28px;
+	color: #84FF81;
+	text-align: center;
+	padding-top: 8px;
+	margin-top: 40px;
+}
+.b {
+	width: 780px;
+	vertical-align: top;
+ 
+	/* vertical-align: top; აი ამის დამატებამ გამოასწორა პრობლემა და ერთ ხაზზე გაასწორა :)*/
+
+	display: inline-block; 
+	margin-left: 60px;
+}
+a {
+	width: 150px;
+    height: 34px;
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: #8D81FF;
+    margin-left: 60px;
+}
+nav {
+	display: inline-block;
+}
+body {
+	padding: 54px 52px;
+}
+section {
+	margin-top: 52px;
+}
+.c {
+	width: 447px;
+	height: 280px;
+	margin-top: 13px;
+}
+h1{
+	margin-top: 18px;
+    width: 119px;
+    height: 34px;
+    font-family: 'BPG Nino Mkhedruli';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+    color: #8D81FF;
+}
+h2 {
+	margin-top: 8px;
+    width: 578px;
+    height: 34px;
+    font-family: 'GL Tatishvili Metal';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #4E6FAE;
+}
+p {
+	margin-bottom: 15px;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	color: #4E6FAE;
+}
+.d {
+	font-family: BPG Square
+}
