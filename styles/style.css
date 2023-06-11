@@ -2,7 +2,7 @@
 .active {
 	color: #4E6FAE;
 }
-/*რიცხვი*/
+/*რიცხვი main-page*/
 .a {
 	width: 50px;
 	height: 50px;
@@ -107,6 +107,7 @@ h4 {
     margin-right: 52px;
     box-sizing: border-box;
 }
+          /*news page*/
 footer{
     margin-top: 93px;
 }
@@ -137,4 +138,54 @@ h5{
     display: inline-block;
     vertical-align: top;
     margin-left: 37px;
+}
+
+/*contacts page*/
+.h{
+	width: 1660px;
+    height: 735px;
+    background: #E7E7E7;
+    display: inline-block;
+}
+h6{
+	width: 474px;
+    height: 34px;
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    color: #4E6FAE;
+}
+.i {
+	display: inline-block;
+	box-sizing: border-box;
+	padding: 93px 40px 0px 162px;
+}
+.j {
+    font-family: 'Helvetica Neue LT GEO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #7E8898;
+    margin-top: 27px;
+}
+span {
+	font-family: 'Helvetica Neue LT GEO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #3F4145;
+}
+.k{
+	display: inline-block;
+}
+iframe {
+	display: inline-block;
+	vertical-align: middle;
+	width: 944px;
+    height: 549px;
+    padding-top: 100px;
 }
